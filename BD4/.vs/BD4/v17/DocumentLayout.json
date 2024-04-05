@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\BD4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|d:\\project\\bd4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|d:\\project\\bd4\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|solutionrelative:models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|d:\\project\\bd4\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|solutionrelative:controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|d:\\project\\bd4\\database\\plantsdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{000AC795-12F9-4A31-85E5-90157549E982}|BD4.csproj|solutionrelative:database\\plantsdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\BD4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\BD4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwD0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:22:03.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "D:\\Project\\BD4\\Models\\Plant.cs",
+              "RelativeDocumentMoniker": "Models\\Plant.cs",
+              "ToolTip": "D:\\Project\\BD4\\Models\\Plant.cs",
+              "RelativeToolTip": "Models\\Plant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:27:14.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "plantsData.json",
+              "DocumentMoniker": "D:\\Project\\BD4\\DataBase\\plantsData.json",
+              "RelativeDocumentMoniker": "DataBase\\plantsData.json",
+              "ToolTip": "D:\\Project\\BD4\\DataBase\\plantsData.json",
+              "RelativeToolTip": "DataBase\\plantsData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T18:03:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "plantsController.cs",
+              "DocumentMoniker": "D:\\Project\\BD4\\Controllers\\plantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\plantsController.cs",
+              "ToolTip": "D:\\Project\\BD4\\Controllers\\plantsController.cs",
+              "RelativeToolTip": "Controllers\\plantsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:48:39.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
